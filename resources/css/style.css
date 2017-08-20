@@ -1,0 +1,37 @@
+body {
+	background-color: black;
+	font-family: Verdana;
+	text-align: center;
+}
+
+h1, 
+h2,
+h3 {
+	font-weight: normal;
+	color: white;
+}
+
+#header {
+	font-size: 50px;
+}
+
+a {
+	color: #7FFFD4;
+	font-size: 16px;
+}
+
+#personal-guide,
+#coming-soon {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+h2 {
+	font-size: 21px;
+	color: gray;
+}
+
+h3 {
+	text-align: right;
+	color: gray;
+}
